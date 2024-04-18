@@ -18,7 +18,7 @@ Este proyecto implementa un sistema de procesamiento de datos en streaming utili
 ### flink-1.18.1
 - Versión de Apache Flink utilizada.
 
-![image](https://github.com/Yawwwe/flinkcommerce_apacheflink_ecommerce_datastreaming/assets/124920713/c666ef33-f4fd-4317-8d12-db4263c54b3b)
+![image](https://github.com/Yawwwe/flinkcommerce_apacheflink_ecommerce_datastreaming/assets/124920713/7fe188d0-44d3-4203-b9b1-d0751c48f4d2)
 
 
 ### SalesTransactionGenerator
@@ -35,4 +35,5 @@ Este proyecto implementa un sistema de procesamiento de datos en streaming utili
 - es-container: Contenedor de Elasticsearch.
 - kb-container: Contenedor de Kibana para la visualización de datos.
 
-- ![image](https://github.com/Yawwwe/flinkcommerce_apacheflink_ecommerce_datastreaming/assets/124920713/d013b20d-c4f7-4f11-b8d8-accff9b1ceb7)
+![image](https://github.com/Yawwwe/flinkcommerce_apacheflink_ecommerce_datastreaming/assets/124920713/21cd6e0f-0dc9-4323-9114-bdb41debc8f8)
+
