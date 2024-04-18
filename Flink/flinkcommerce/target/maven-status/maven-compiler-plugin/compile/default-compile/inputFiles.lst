@@ -1,0 +1,7 @@
+/home/yawe/Proyectos/Data_engineering/data_ecommerce_flink/Flink/flinkcommerce/src/main/java/Dto/Transaction.java
+/home/yawe/Proyectos/Data_engineering/data_ecommerce_flink/Flink/flinkcommerce/src/main/java/Dto/SalesPerCategory.java
+/home/yawe/Proyectos/Data_engineering/data_ecommerce_flink/Flink/flinkcommerce/src/main/java/Deserializer/JSONValueDeserializationSchema.java
+/home/yawe/Proyectos/Data_engineering/data_ecommerce_flink/Flink/flinkcommerce/src/main/java/Dto/SalesPerMonth.java
+/home/yawe/Proyectos/Data_engineering/data_ecommerce_flink/Flink/flinkcommerce/src/main/java/utils/JsonUtil.java
+/home/yawe/Proyectos/Data_engineering/data_ecommerce_flink/Flink/flinkcommerce/src/main/java/Dto/SalesPerDay.java
+/home/yawe/Proyectos/Data_engineering/data_ecommerce_flink/Flink/flinkcommerce/src/main/java/flinkcommerce/DataStreamJob.java
