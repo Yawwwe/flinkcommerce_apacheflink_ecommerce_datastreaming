@@ -1,7 +1,0 @@
-Deserializer/JSONValueDeserializationSchema.class
-utils/JsonUtil.class
-Dto/Transaction.class
-Dto/SalesPerDay.class
-Dto/SalesPerCategory.class
-Dto/SalesPerMonth.class
-flinkcommerce/DataStreamJob.class
