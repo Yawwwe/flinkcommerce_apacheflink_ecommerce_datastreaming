@@ -3,7 +3,7 @@
 # Data E-commerce Flink Project
 
 ## Descripción
-Este proyecto implementa un sistema de procesamiento de datos en streaming utilizando Apache Kafka para la ingestión de datos, Apache Flink para el procesamiento en tiempo real, GraphQL para el almacenamiento de datos estructurados y Elasticsearch con Kibana para el análisis y visualización de datos.
+Este proyecto implementa un sistema de procesamiento de datos en streaming utilizando Apache Kafka para la ingestión de datos, Apache Flink para el procesamiento en tiempo real, PostgreSQL para el almacenamiento de datos estructurados y Elasticsearch con Kibana para el análisis y visualización de datos.
 
 ## Estructura de Carpetas
 
